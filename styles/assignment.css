@@ -1,0 +1,9 @@
+.banner{
+    padding: 50px 50px 50px 200px;
+    display: flex;
+    background-color: #E554731A;
+    align-items: center;
+}
+.banner .profile-flower{
+    width: 600px;
+}
